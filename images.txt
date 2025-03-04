@@ -1,3 +1,2 @@
-tomcat
-mysql
-redis
+elasticsearch:8.15.3
+kibana:8.15.3
