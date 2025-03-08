@@ -1,1 +1,1 @@
-kafka
+docker pull bitnami/kafka:3.9
