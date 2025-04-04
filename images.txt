@@ -1,1 +1,1 @@
-bitnami/kafka:3.9
+uifd/ui-for-docker
