@@ -1,1 +1,1 @@
-uifd/ui-for-docker
+gitlab/gitlab-ce
